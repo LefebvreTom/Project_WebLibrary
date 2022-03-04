@@ -1,0 +1,88 @@
+/* style.css */
+
+hmtl, body{
+	margin:0px;
+	padding:0px;
+	font-family:sans-serif;
+}
+
+h1{
+	text-align:center;	
+}
+h2{
+	text-align:center;
+}
+
+div.header-bandeau{
+	position:block;
+	height:50px;
+	width:100%;
+	padding:5px;
+	color:#ffffff;
+	font-size:26px;
+	text-align:center;
+	background: linear-gradient(#4251f5, #1799bd);
+}
+
+div.header{
+	text-align:center;
+	padding:10px;
+	font-size:26px;
+}
+
+div.header a {
+	text-decoration:none;
+	color:#000000;
+}
+
+div.header a:visited {
+	color:#000000;
+}
+
+img.imgIndex{
+	width:40%;
+	border-radius:50px;
+}
+
+.erreur{
+	color:#ff0000;
+	font-weight: bold;
+}
+
+.success{
+	color:#328c49;
+	font-weight: bold;
+}
+
+table, th, td {
+  border: 1px solid black;
+  margin:auto;
+	border-collapse: collapse;
+	font-size:25px;
+}
+
+table td {
+	padding:10px;
+}
+
+table th{
+	background: linear-gradient(#0080ff, #7cd9f2);
+	color:#ffffff;
+	padding:10px;
+	font-size:27px;
+}
+
+form, input, select{
+	font-size:23px;
+}
+
+input.btnDeconnexion{
+	position:absolute;
+	top:5px;
+	right:5px;
+	border:2px solid #ffffff;
+	padding:5px;
+	background-color:#e83f52;
+	color:#ffffff;
+	border-radius:10px;
+}
