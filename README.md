@@ -12,7 +12,7 @@ The style CSS is very simple because it was not the objective of this project
 
 
 ## Credit :
-Dousseleare Maxime
-El Rhoufi Mohamed
-Cherkaoui Jihane
+Dousseleare Maxime \
+El Rhoufi Mohamed \
+Cherkaoui Jihane \
 Lefebvre Tom
